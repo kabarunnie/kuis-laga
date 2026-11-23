@@ -1,0 +1,442 @@
+[
+  {
+    "q": "Jumlah pemain inti satu tim sepak bola di lapangan adalah…",
+    "choices": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "a": 2,
+    "why": "Satu tim menurunkan 11 pemain inti, termasuk penjaga gawang."
+  },
+  {
+    "q": "Lama normal dua babak waktu normal pertandingan resmi adalah…",
+    "choices": [
+      "2 × 30 menit",
+      "2 × 40 menit",
+      "2 × 45 menit",
+      "2 × 60 menit"
+    ],
+    "a": 2,
+    "why": "Waktu normal adalah dua babak, masing-masing 45 menit, plus injury time."
+  },
+  {
+    "q": "Stadion Gelora Bung Karno berada di kota…",
+    "choices": [
+      "Bandung",
+      "Jakarta",
+      "Surabaya",
+      "Yogyakarta"
+    ],
+    "a": 1,
+    "why": "GBK terletak di Senayan, Jakarta."
+  },
+  {
+    "q": "Kemenangan dalam babak grup biasanya memberi berapa poin?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "a": 2,
+    "why": "Sistem umum: menang 3, seri 1, kalah 0."
+  },
+  {
+    "q": "Hasil seri dalam babak grup biasanya memberi berapa poin?",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "a": 1,
+    "why": "Seri umumnya bernilai satu poin."
+  },
+  {
+    "q": "Kartu kuning dari wasit berarti…",
+    "choices": [
+      "Pemain harus keluar",
+      "Peringatan",
+      "Gol dianulir",
+      "Pergantian paksa"
+    ],
+    "a": 1,
+    "why": "Kartu kuning adalah peringatan resmi."
+  },
+  {
+    "q": "Kartu merah berarti pemain…",
+    "choices": [
+      "Tetap bermain",
+      "Harus meninggalkan lapangan",
+      "Hanya denda",
+      "Ganti posisi"
+    ],
+    "a": 1,
+    "why": "Kartu merah: pemain dikeluarkan dari pertandingan."
+  },
+  {
+    "q": "Piala dunia FIFA diadakan setiap…",
+    "choices": [
+      "Dua tahun",
+      "Tiga tahun",
+      "Empat tahun",
+      "Lima tahun"
+    ],
+    "a": 2,
+    "why": "Turnamen ini berputar setiap empat tahun."
+  },
+  {
+    "q": "Konfederasi sepak bola Asia disingkat…",
+    "choices": [
+      "UEFA",
+      "AFC",
+      "CONMEBOL",
+      "CAF"
+    ],
+    "a": 1,
+    "why": "AFC adalah Asian Football Confederation."
+  },
+  {
+    "q": "Piala AFF adalah turnamen antarnegara di kawasan…",
+    "choices": [
+      "Asia Timur",
+      "Asia Tenggara",
+      "Asia Selatan",
+      "Pasifik saja"
+    ],
+    "a": 1,
+    "why": "AFF adalah federasi sepak bola Asia Tenggara."
+  },
+  {
+    "q": "Penjaga gawang boleh memegang bola dengan tangan di…",
+    "choices": [
+      "Seluruh lapangan",
+      "Area penalti sendiri",
+      "Hanya di titik tengah",
+      "Hanya saat tendangan sudut"
+    ],
+    "a": 1,
+    "why": "Di luar area penalti, penjaga gawang tidak boleh memakai tangan."
+  },
+  {
+    "q": "Jumlah pemain cadangan yang boleh masuk tergantung peraturan, tetapi pergantian dilakukan saat…",
+    "choices": [
+      "Bola di luar permainan dan wasit mengizinkan",
+      "Kapan saja tanpa isyarat",
+      "Hanya di babak pertama",
+      "Hanya setelah gol"
+    ],
+    "a": 0,
+    "why": "Pergantian sah setelah wasit mengizinkan, biasanya saat bola keluar permainan."
+  },
+  {
+    "q": "Tendangan penalti dilakukan dari jarak…",
+    "choices": [
+      "9,15 meter",
+      "10 meter",
+      "11 meter",
+      "12 yard yang sama dengan 11 meter"
+    ],
+    "a": 2,
+    "why": "Titik penalti berjarak 11 meter (12 yard) dari garis gawang."
+  },
+  {
+    "q": "Offside tidak dijatuhkan dari…",
+    "choices": [
+      "Tendangan gawang",
+      "Operan biasa ke depan",
+      "Umpan terobosan",
+      "Sundulan rekan"
+    ],
+    "a": 0,
+    "why": "Tidak ada offside langsung dari tendangan gawang, lemparan ke dalam, atau tendangan sudut."
+  },
+  {
+    "q": "Julukan yang sering dipakai untuk tim nasional Indonesia adalah…",
+    "choices": [
+      "Skuad Garuda",
+      "Skuad Elang",
+      "Skuad Harimau",
+      "Skuad Merpati"
+    ],
+    "a": 0,
+    "why": "Sebutan 'Skuad Garuda' sudah lazim di media dan pendukung. Ini bukan pernyataan resmi lisensi merek."
+  },
+  {
+    "q": "Lapangan sepak bola berbentuk…",
+    "choices": [
+      "Lingkaran",
+      "Persegi panjang",
+      "Segitiga",
+      "Trapesium"
+    ],
+    "a": 1,
+    "why": "Lapangan resmi berbentuk persegi panjang dengan ukuran dalam rentang yang ditentukan."
+  },
+  {
+    "q": "Wasit utama dibantu oleh penjaga garis yang kini lebih sering disebut…",
+    "choices": [
+      "Wasit cadangan saja",
+      "Asisten wasit",
+      "Komisaris lapangan",
+      "Pelatih"
+    ],
+    "a": 1,
+    "why": "Penjaga garis resmi disebut asisten wasit."
+  },
+  {
+    "q": "Jika bola seluruhnya melewati garis gawang di antara tiang dan di bawah mistar, itu…",
+    "choices": [
+      "Tendangan sudut",
+      "Gol",
+      "Tendangan gawang",
+      "Lemparan ke dalam"
+    ],
+    "a": 1,
+    "why": "Syarat gol: bola melewati garis gawang secara keseluruhan di antara tiang."
+  },
+  {
+    "q": "Piala Eropa antarnegara (EURO) diselenggarakan oleh…",
+    "choices": [
+      "AFC",
+      "UEFA",
+      "FIFA saja tanpa konfederasi",
+      "CONCACAF"
+    ],
+    "a": 1,
+    "why": "UEFA adalah konfederasi Eropa."
+  },
+  {
+    "q": "Jumlah poin untuk menentukan peringkat jika selisih gol sama, langkah berikutnya yang umum adalah…",
+    "choices": [
+      "Diundi selalu",
+      "Melihat jumlah gol / head-to-head sesuai regulasi turnamen",
+      "Diulang seluruh grup",
+      "Dihapus hasil tandang"
+    ],
+    "a": 1,
+    "why": "Tie-break bergantung regulasi: sering head-to-head atau jumlah gol. Bukan selalu undian."
+  },
+  {
+    "q": "Pertandingan yang masih imbang setelah waktu normal di babak gugur biasanya masuk ke…",
+    "choices": [
+      "Langsung undian",
+      "Perpanjangan waktu, lalu adu penalti jika perlu",
+      "Dihitung gol tandang saja",
+      "Diulang besok pagi selalu"
+    ],
+    "a": 1,
+    "why": "Format umum babak gugur: extra time, kemudian adu penalti."
+  },
+  {
+    "q": "Hindia Belanda (wilayah yang kini sebagian besar Indonesia) pernah tampil di Piala Dunia tahun…",
+    "choices": [
+      "1930",
+      "1934",
+      "1938",
+      "1954"
+    ],
+    "a": 2,
+    "why": "Fakta sejarah yang banyak dicatat: 1938 di Prancis, sebagai tim Asia pertama yang tampil."
+  },
+  {
+    "q": "Satu laga resmi biasanya dimulai dengan…",
+    "choices": [
+      "Lemparan ke dalam",
+      "Kick-off di titik tengah",
+      "Tendangan sudut",
+      "Tendangan gawang"
+    ],
+    "a": 1,
+    "why": "Wasit memberi isyarat, lalu kick-off dari titik tengah."
+  },
+  {
+    "q": "Jika pemain terakhir yang menyentuh bola sebelum keluar di garis gawang adalah pemain bertahan (bukan gol), biasanya diberikan…",
+    "choices": [
+      "Tendangan sudut untuk lawan",
+      "Tendangan gawang",
+      "Lemparan ke dalam",
+      "Penalti"
+    ],
+    "a": 0,
+    "why": "Bola keluar di garis gawang dari pemain bertahan: tendangan sudut."
+  },
+  {
+    "q": "Jika pemain penyerang terakhir menyentuh bola sebelum keluar di garis gawang lawan (bukan gol), diberikan…",
+    "choices": [
+      "Tendangan sudut",
+      "Tendangan gawang untuk pertahanan",
+      "Penalti",
+      "Drop ball di tengah"
+    ],
+    "a": 1,
+    "why": "Bola keluar dari pemain penyerang di garis gawang lawan: tendangan gawang."
+  },
+  {
+    "q": "Futsal dimainkan oleh berapa pemain inti per tim?",
+    "choices": [
+      "5",
+      "7",
+      "8",
+      "11"
+    ],
+    "a": 0,
+    "why": "Futsal: lima pemain inti per tim, termasuk penjaga gawang."
+  },
+  {
+    "q": "Lama normal satu babak futsal resmi (bukan amateur bebas) sering…",
+    "choices": [
+      "10 menit",
+      "20 menit bersih",
+      "45 menit",
+      "90 menit"
+    ],
+    "a": 1,
+    "why": "Futsal resmi umumnya 2 × 20 menit dengan waktu berhenti saat bola mati."
+  },
+  {
+    "q": "VAR dalam sepak bola modern adalah…",
+    "choices": [
+      "Pelatih virtual",
+      "Asisten wasit video",
+      "Alat ukur bola",
+      "Nama stadion"
+    ],
+    "a": 1,
+    "why": "Video Assistant Referee membantu wasit meninjau insiden tertentu."
+  },
+  {
+    "q": "Lapangan futsal lebih… dibanding lapangan sebelas lawan sebelas.",
+    "choices": [
+      "Besar dan berumput selalu",
+      "Kecil, biasanya di indoor",
+      "Sama persis",
+      "Hanya di pantai"
+    ],
+    "a": 1,
+    "why": "Futsal dimainkan di lapangan lebih kecil, sering di dalam ruangan."
+  },
+  {
+    "q": "Wasit memakai peluit untuk…",
+    "choices": [
+      "Menghibur penonton",
+      "Memberi isyarat memulai, menghentikan, atau mematikan permainan",
+      "Mengganti pemain tanpa isyarat lain",
+      "Menyanyi himne"
+    ],
+    "a": 1,
+    "why": "Peluit adalah isyarat resmi wasit."
+  },
+  {
+    "q": "Pemain yang berada di posisi offside baru dihukum jika…",
+    "choices": [
+      "Hanya berdiri diam di daerah lawan",
+      "Terlibat dalam permainan, misalnya menyentuh bola atau mengganggu lawan",
+      "Berada di setengah lapangan sendiri",
+      "Menjaga gawang"
+    ],
+    "a": 1,
+    "why": "Posisi offside belum tentu pelanggaran; harus ada keterlibatan."
+  },
+  {
+    "q": "Jumlah waktu tambahan (injury time) ditentukan oleh…",
+    "choices": [
+      "Kapten tuan rumah",
+      "Wasit (dibantu tim wasit)",
+      "Penonton",
+      "Pemain gol terbanyak"
+    ],
+    "a": 1,
+    "why": "Wasit menentukan waktu tambahan."
+  },
+  {
+    "q": "Bola keluar di sisi panjang lapangan dilemparkan masuk dengan…",
+    "choices": [
+      "Tendangan sudut",
+      "Lemparan ke dalam",
+      "Drop ball selalu",
+      "Penalti"
+    ],
+    "a": 1,
+    "why": "Keluar di garis sisi: throw-in."
+  },
+  {
+    "q": "Sepak bola pantai dimainkan di atas…",
+    "choices": [
+      "Rumput sintetis saja",
+      "Pasir",
+      "Kayu",
+      "Es"
+    ],
+    "a": 1,
+    "why": "Beach soccer dimainkan di pasir."
+  },
+  {
+    "q": "Dalam adu penalti, satu tembakan dinyatakan gagal jika…",
+    "choices": [
+      "Bola masuk gawang",
+      "Bola tidak masuk, atau ada pelanggaran yang membatalkan",
+      "Penjaga gawang terjun",
+      "Penendang berlari"
+    ],
+    "a": 1,
+    "why": "Gagal jika bola tidak sah masuk, termasuk ditangkap, menyamping, atau pelanggaran."
+  },
+  {
+    "q": "Tim yang mencetak lebih banyak gol disebut…",
+    "choices": [
+      "Kalah",
+      "Pemenang laga (jika waktu habis dan tidak ada aturan khusus lain)",
+      "Wasit",
+      "Tuan rumah otomatis"
+    ],
+    "a": 1,
+    "why": "Gol terbanyak di akhir waktu (plus perpanjangan jika ada) menentukan pemenang."
+  },
+  {
+    "q": "Lapangan harus memiliki… di setiap ujungnya.",
+    "choices": [
+      "Dua gawang",
+      "Satu gawang dan satu meja",
+      "Empat gawang",
+      "Tidak perlu gawang"
+    ],
+    "a": 0,
+    "why": "Dua gawang, masing-masing di ujung lapangan."
+  },
+  {
+    "q": "Kapten tim biasanya dikenali dari…",
+    "choices": [
+      "Sepatu berbeda wajib",
+      "Ban kapten di lengan",
+      "Hanya nomor 1",
+      "Tidak boleh berbicara"
+    ],
+    "a": 1,
+    "why": "Ban kapten (armband) adalah penanda lazim."
+  },
+  {
+    "q": "Jika skor 0-0 sampai akhir dan itu babak grup, hasilnya…",
+    "choices": [
+      "Kedua tim kalah",
+      "Kedua tim mendapat poin seri",
+      "Dihapus",
+      "Diulang wajib"
+    ],
+    "a": 1,
+    "why": "0-0 adalah seri; masing-masing biasanya mendapat satu poin."
+  },
+  {
+    "q": "Piala Asia adalah turnamen antarnegara di tingkat…",
+    "choices": [
+      "Dunia",
+      "Benua Asia (AFC)",
+      "Hanya ASEAN",
+      "Hanya Timur Tengah"
+    ],
+    "a": 1,
+    "why": "Piala Asia adalah kejuaraan resmi AFC."
+  }
+]
